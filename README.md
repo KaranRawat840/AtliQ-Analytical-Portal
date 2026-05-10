@@ -118,3 +118,5 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 - Optimized dashboard performance through meticulous fine-tuning and Cloud Storage integration (SharePoint).
 
 - Proficient in stakeholder management, including gathering requirements, managing expectations, and delivering tailored solutions.
+
+[You can find all files here](https://drive.google.com/drive/folders/1vF2-GKkyaL7MB4Wh1x9nyBsAyb-MprP2?usp=sharing)
