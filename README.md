@@ -7,7 +7,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 ### **Objective:**
 
-1. A Home Page for the user to navigate to different Views in the Dashboard.
+1. A [Home Page](https://github.com/KaranRawat840/AtliQ-Analytical-Portal/blob/main/Home%20View.png) for the user to navigate to different Views in the Dashboard.
 
 2. The icons redirect you to the respective dashboards.
 
@@ -21,7 +21,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 ### **Ojective:**
 
-1. A dashboard for Finance View
+1. A dashboard for [Finance View](https://github.com/KaranRawat840/AtliQ-Analytical-Portal/blob/main/Finance%20View.png).
 
 **KPI Visuals:** Track key performance indicators (KPIs) such as Net Sales, Gross Margin %, and Net Profit %, with comparisons to benchmark values (e.g., Last Year or Targets).
 
@@ -33,7 +33,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 ### **View objective:**
 
-1. A dashboard for Sales View
+1. A dashboard for [Sales View](https://github.com/KaranRawat840/AtliQ-Analytical-Portal/blob/main/Sales%20View.png).
 
 **Customer Performance:** Analyze customer performance metrics, including Net Sales, Gross Margin, and Gross Margin %.
 
@@ -47,7 +47,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 ### **View objective:**
 
-1. A dashboard for Marketing View
+1. A dashboard for [Marketing View](https://github.com/KaranRawat840/AtliQ-Analytical-Portal/blob/main/Marketing%20View.png).
 
 **Product Performance:** Analyzed product performance using key metrics such as Net Sales, Gross Margin, Gross Margin %, Net Profit, and Net Profit %. Gain insights into the financial health and profitability of individual products.
 
@@ -65,7 +65,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 ### **View objective:**
 
-1. A dashboard for Supply Chain View
+1. A dashboard for [Supply Chain View](https://github.com/KaranRawat840/AtliQ-Analytical-Portal/blob/main/Supply%20Chain%20View.png).
 
 **KPI Visuals:** Track critical supply chain KPIs such as Forecast Accuracy, Net Error, and ABS Error, with comparisons to benchmark values (e.g., Last Year). These visuals provide a clear understanding of forecasting performance and deviations.
 
@@ -77,7 +77,7 @@ A Power BI-driven business intelligence solution offering 360-degree insights in
 
 ### **View objective:**
 
-1. A dashboard for Executive View
+1. A dashboard for [Executive View](https://github.com/KaranRawat840/AtliQ-Analytical-Portal/blob/main/Executive%20View.png)
 
 **KPI Visuals:** Track key performance indicators (KPIs) such as Forecast Accuracy, Net Sales, Gross Margin %, and Net Profit %, with comparisons to benchmark values (e.g., Last Year or Targets). These visuals provide a snapshot of performance against goals.
 
